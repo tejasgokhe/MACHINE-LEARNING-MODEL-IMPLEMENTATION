@@ -41,3 +41,5 @@ Platform used:- Visual Studio Code
 
 ##OUTPUT:-
 
+![Image](https://github.com/user-attachments/assets/f668a306-cab7-40a3-8ce5-6e4259b5185e)
+![Image](https://github.com/user-attachments/assets/cda48ee4-4531-496e-8d90-781403c68103)
